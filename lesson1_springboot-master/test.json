@@ -1,0 +1,18 @@
+{
+  "recipeName": "Phở Bò Hà Nội",
+  "description": "Món phở bò truyền thống với nước dùng đậm đà.",
+  "servings": 4,
+  "ingredients": [
+    { "item": "Bánh phở tươi", "quantity": 1, "unit": "kg" },
+    { "item": "Thịt bò (nạm, gầu)", "quantity": 500, "unit": "g" },
+    { "item": "Xương ống bò", "quantity": 1, "unit": "kg" },
+    { "item": "Hành tây", "quantity": 2, "unit": "củ" },
+    { "item": "Gừng", "quantity": 1, "unit": "nhánh" },
+    { "item": "Thảo quả", "quantity": 2, "unit": "quả" },
+    { "item": "Hoa hồi", "quantity": 3, "unit": "cái" },
+    { "item": "Hành lá, rau thơm", "quantity": 1, "unit": "mớ" },
+    { "item": "Gia vị (nước mắm, muối, đường)", "quantity": null, "unit": "vừa đủ" }
+  ],
+  "prepTimeMinutes": 30,
+  "cookTimeMinutes": 180
+}

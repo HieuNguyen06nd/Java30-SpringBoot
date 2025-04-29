@@ -1,0 +1,901 @@
+[{
+  "id": 1,
+  "name": "Drunk Stoned Brilliant Dead: The Story of the National Lampoon",
+  "genre": "Comedy|Documentary",
+  "director": "Yalonda Dignam",
+  "duration": 56,
+  "description": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+  "publishedDate": "2025-01-28",
+  "category": "Kinh Dị"
+}, {
+  "id": 2,
+  "name": "Tulse Luper Suitcases, Part 1: The Moab Story, The",
+  "genre": "Adventure|Drama|Fantasy|Film-Noir",
+  "director": "Miltie Goulter",
+  "duration": 40,
+  "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+  "publishedDate": "2025-04-07",
+  "category": "16+"
+}, {
+  "id": 3,
+  "name": "Exporting Raymond",
+  "genre": "Comedy|Documentary",
+  "director": "Cyrillus Ringsell",
+  "duration": 13,
+  "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+  "publishedDate": "2025-02-03",
+  "category": "16+"
+}, {
+  "id": 4,
+  "name": "Deep in the Woods (Promenons-nous dans les bois)",
+  "genre": "Horror|Thriller",
+  "director": "Teressa Widdicombe",
+  "duration": 43,
+  "description": "Nulla justo.",
+  "publishedDate": "2025-02-25",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 5,
+  "name": "Legendary",
+  "genre": "Drama",
+  "director": "Wald Orrick",
+  "duration": 83,
+  "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
+  "publishedDate": "2025-01-28",
+  "category": "18+"
+}, {
+  "id": 6,
+  "name": "Yes: 9012 Live",
+  "genre": "Documentary|Musical",
+  "director": "Sheffield Igonet",
+  "duration": 48,
+  "description": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
+  "publishedDate": "2024-11-25",
+  "category": "Kinh Dị"
+}, {
+  "id": 7,
+  "name": "Zeitgeist: Addendum",
+  "genre": "Documentary",
+  "director": "Yancey Fritchley",
+  "duration": 12,
+  "description": "In hac habitasse platea dictumst.",
+  "publishedDate": "2025-01-18",
+  "category": "16+"
+}, {
+  "id": 8,
+  "name": "Our Mother's House",
+  "genre": "Drama|Thriller",
+  "director": "Gris Colby",
+  "duration": 95,
+  "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+  "publishedDate": "2024-06-11",
+  "category": "18+"
+}, {
+  "id": 9,
+  "name": "Go Tigers!",
+  "genre": "Documentary",
+  "director": "Lyndy Cleland",
+  "duration": 99,
+  "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+  "publishedDate": "2025-03-05",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 10,
+  "name": "Bakery Girl of Monceau, The (La boulangère de Monceau)",
+  "genre": "Romance",
+  "director": "Devinne Manifold",
+  "duration": 61,
+  "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+  "publishedDate": "2024-10-14",
+  "category": "Kinh Dị"
+}, {
+  "id": 11,
+  "name": "Just a Little Harmless Sex",
+  "genre": "Comedy|Romance",
+  "director": "Olly Ainger",
+  "duration": 71,
+  "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+  "publishedDate": "2024-12-15",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 12,
+  "name": "Way Back, The",
+  "genre": "Drama",
+  "director": "Myranda Brasse",
+  "duration": 33,
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+  "publishedDate": "2025-03-04",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 13,
+  "name": "Gridiron Gang",
+  "genre": "Drama",
+  "director": "Aila Gymlett",
+  "duration": 37,
+  "description": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+  "publishedDate": "2024-05-08",
+  "category": "18+"
+}, {
+  "id": 14,
+  "name": "Jerusalem Countdown",
+  "genre": "Thriller",
+  "director": "Fin Kubasek",
+  "duration": 53,
+  "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+  "publishedDate": "2025-03-08",
+  "category": "Gia Đình"
+}, {
+  "id": 15,
+  "name": "Gifted Hands: The Ben Carson Story",
+  "genre": "Drama",
+  "director": "Jasmin Rodger",
+  "duration": 76,
+  "description": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+  "publishedDate": "2024-06-11",
+  "category": "18+"
+}, {
+  "id": 16,
+  "name": "Blood Alley",
+  "genre": "Action|Adventure",
+  "director": "Jeffry Cape",
+  "duration": 65,
+  "description": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+  "publishedDate": "2024-05-22",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 17,
+  "name": "Teaching Mrs. Tingle",
+  "genre": "Comedy|Thriller",
+  "director": "Bart Lacrouts",
+  "duration": 63,
+  "description": "Proin interdum mauris non ligula pellentesque ultrices.",
+  "publishedDate": "2024-06-29",
+  "category": "18+"
+}, {
+  "id": 18,
+  "name": "Plankton",
+  "genre": "Horror",
+  "director": "Kristyn Kall",
+  "duration": 84,
+  "description": "Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",
+  "publishedDate": "2024-05-15",
+  "category": "16+"
+}, {
+  "id": 19,
+  "name": "Around the Bend",
+  "genre": "Drama",
+  "director": "Alyse Cotman",
+  "duration": 19,
+  "description": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",
+  "publishedDate": "2024-12-02",
+  "category": "Kinh Dị"
+}, {
+  "id": 20,
+  "name": "On_Line (a.k.a. On Line)",
+  "genre": "Drama",
+  "director": "Winona Van der Baaren",
+  "duration": 65,
+  "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
+  "publishedDate": "2025-04-19",
+  "category": "16+"
+}, {
+  "id": 21,
+  "name": "Ballad of Little Jo, The",
+  "genre": "Drama|Western",
+  "director": "Fae Prazer",
+  "duration": 13,
+  "description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+  "publishedDate": "2025-03-10",
+  "category": "16+"
+}, {
+  "id": 22,
+  "name": "S21: The Khmer Rouge Death Machine (S-21, la machine de mort Khmère rouge)",
+  "genre": "Documentary|War",
+  "director": "Jacintha Iorillo",
+  "duration": 76,
+  "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+  "publishedDate": "2024-05-31",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 23,
+  "name": "Let It Snow",
+  "genre": "Comedy|Romance",
+  "director": "Danila Dunnan",
+  "duration": 12,
+  "description": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+  "publishedDate": "2025-03-26",
+  "category": "Kinh Dị"
+}, {
+  "id": 24,
+  "name": "Prize, The",
+  "genre": "Drama|Mystery|Thriller",
+  "director": "Freddie Macura",
+  "duration": 53,
+  "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+  "publishedDate": "2024-07-06",
+  "category": "Kinh Dị"
+}, {
+  "id": 25,
+  "name": "Charlie Brown's Christmas Tales",
+  "genre": "Animation|Children|Comedy",
+  "director": "Tamarah Lagadu",
+  "duration": 7,
+  "description": "Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+  "publishedDate": "2024-08-10",
+  "category": "Kinh Dị"
+}, {
+  "id": 26,
+  "name": "Double Harness",
+  "genre": "Comedy|Drama",
+  "director": "Francene Mealand",
+  "duration": 48,
+  "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+  "publishedDate": "2025-01-13",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 27,
+  "name": "Foster Brothers, The (Süt kardesler)",
+  "genre": "Comedy",
+  "director": "Lenka Regina",
+  "duration": 65,
+  "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "publishedDate": "2024-11-19",
+  "category": "18+"
+}, {
+  "id": 28,
+  "name": "Mind Game",
+  "genre": "Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi",
+  "director": "Karrie Marcu",
+  "duration": 17,
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
+  "publishedDate": "2024-11-15",
+  "category": "Gia Đình"
+}, {
+  "id": 29,
+  "name": "Violent Years, The",
+  "genre": "Drama",
+  "director": "Bernadine Haggarty",
+  "duration": 9,
+  "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+  "publishedDate": "2025-04-17",
+  "category": "Kinh Dị"
+}, {
+  "id": 30,
+  "name": "Exiled (Fong juk)",
+  "genre": "Action|Crime|Thriller",
+  "director": "Arda Dake",
+  "duration": 11,
+  "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+  "publishedDate": "2025-01-09",
+  "category": "Kinh Dị"
+}, {
+  "id": 31,
+  "name": "Krippendorf's Tribe",
+  "genre": "Comedy",
+  "director": "Glori Durnall",
+  "duration": 62,
+  "description": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+  "publishedDate": "2024-05-20",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 32,
+  "name": "Pornographers, The (Erogotoshi-tachi yori: Jinruigaku nyûmon)",
+  "genre": "Comedy|Drama",
+  "director": "Tiphani Hurt",
+  "duration": 69,
+  "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+  "publishedDate": "2025-02-06",
+  "category": "16+"
+}, {
+  "id": 33,
+  "name": "Fifty Shades of Grey",
+  "genre": "Drama",
+  "director": "Uriel Allpress",
+  "duration": 45,
+  "description": "Integer tincidunt ante vel ipsum.",
+  "publishedDate": "2025-02-18",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 34,
+  "name": "Blink",
+  "genre": "Thriller",
+  "director": "Antonio Renshell",
+  "duration": 31,
+  "description": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",
+  "publishedDate": "2024-06-06",
+  "category": "16+"
+}, {
+  "id": 35,
+  "name": "Mall",
+  "genre": "Drama",
+  "director": "Blondell Hounsome",
+  "duration": 36,
+  "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "publishedDate": "2025-03-05",
+  "category": "Kinh Dị"
+}, {
+  "id": 36,
+  "name": "Jarhead",
+  "genre": "Action|Drama|War",
+  "director": "Othello Gueste",
+  "duration": 30,
+  "description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+  "publishedDate": "2024-05-14",
+  "category": "Kinh Dị"
+}, {
+  "id": 37,
+  "name": "Next Friday",
+  "genre": "Comedy",
+  "director": "Georgeanne Grint",
+  "duration": 52,
+  "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+  "publishedDate": "2025-04-03",
+  "category": "Kinh Dị"
+}, {
+  "id": 38,
+  "name": "Away We Go",
+  "genre": "Comedy|Drama|Romance",
+  "director": "Grazia Minnis",
+  "duration": 93,
+  "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
+  "publishedDate": "2025-04-28",
+  "category": "16+"
+}, {
+  "id": 39,
+  "name": "No Exit (Huis clos)",
+  "genre": "Drama",
+  "director": "Alicea Mepsted",
+  "duration": 53,
+  "description": "Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+  "publishedDate": "2024-11-27",
+  "category": "Gia Đình"
+}, {
+  "id": 40,
+  "name": "Jack-O",
+  "genre": "Horror",
+  "director": "Caz Crossingham",
+  "duration": 29,
+  "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",
+  "publishedDate": "2025-02-14",
+  "category": "Kinh Dị"
+}, {
+  "id": 41,
+  "name": "Sword of Desperation (Hisshiken torisashi)",
+  "genre": "Action|Drama",
+  "director": "Adair Zanardii",
+  "duration": 94,
+  "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "publishedDate": "2024-11-30",
+  "category": "18+"
+}, {
+  "id": 42,
+  "name": "Patema Inverted",
+  "genre": "Adventure|Animation|Drama|Fantasy|Sci-Fi",
+  "director": "Sloane Jackett",
+  "duration": 78,
+  "description": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+  "publishedDate": "2024-08-05",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 43,
+  "name": "Ketchup Effect, The (Hip Hip Hora!)",
+  "genre": "Drama",
+  "director": "Antonie Pierton",
+  "duration": 45,
+  "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+  "publishedDate": "2025-04-06",
+  "category": "Gia Đình"
+}, {
+  "id": 44,
+  "name": "Yellow",
+  "genre": "Comedy|Drama",
+  "director": "Shana Faudrie",
+  "duration": 22,
+  "description": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+  "publishedDate": "2024-11-09",
+  "category": "Gia Đình"
+}, {
+  "id": 45,
+  "name": "Naked Gun: From the Files of Police Squad!, The",
+  "genre": "Action|Comedy|Crime|Romance",
+  "director": "Rolland Cudbird",
+  "duration": 48,
+  "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",
+  "publishedDate": "2024-08-18",
+  "category": "Kinh Dị"
+}, {
+  "id": 46,
+  "name": "Archangel",
+  "genre": "Comedy",
+  "director": "Hailee Farlow",
+  "duration": 19,
+  "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+  "publishedDate": "2024-07-01",
+  "category": "Kinh Dị"
+}, {
+  "id": 47,
+  "name": "Reindeerspotting - Pako joulumaasta",
+  "genre": "Documentary",
+  "director": "Ogdon Steart",
+  "duration": 26,
+  "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
+  "publishedDate": "2024-06-09",
+  "category": "Kinh Dị"
+}, {
+  "id": 48,
+  "name": "Paziraie Sadeh",
+  "genre": "Drama",
+  "director": "Shirley Southby",
+  "duration": 62,
+  "description": "Suspendisse potenti.",
+  "publishedDate": "2025-04-07",
+  "category": "16+"
+}, {
+  "id": 49,
+  "name": "Squeeze",
+  "genre": "Drama",
+  "director": "Bessie Clemmensen",
+  "duration": 10,
+  "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.",
+  "publishedDate": "2025-04-09",
+  "category": "Kinh Dị"
+}, {
+  "id": 50,
+  "name": "Wild Gals Of The Naked West",
+  "genre": "Comedy|Western",
+  "director": "Lethia Yielding",
+  "duration": 52,
+  "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis.",
+  "publishedDate": "2025-03-26",
+  "category": "18+"
+}, {
+  "id": 51,
+  "name": "1776",
+  "genre": "Children|Drama|Musical",
+  "director": "Joanna Firby",
+  "duration": 25,
+  "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+  "publishedDate": "2024-07-31",
+  "category": "Gia Đình"
+}, {
+  "id": 52,
+  "name": "Same Time, Next Year",
+  "genre": "Comedy|Drama|Romance",
+  "director": "Addie Dunbar",
+  "duration": 38,
+  "description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+  "publishedDate": "2025-04-04",
+  "category": "Kinh Dị"
+}, {
+  "id": 53,
+  "name": "Rage: Carrie 2, The",
+  "genre": "Horror",
+  "director": "Armando Franzettoini",
+  "duration": 54,
+  "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+  "publishedDate": "2025-03-02",
+  "category": "16+"
+}, {
+  "id": 54,
+  "name": "Jesus of Nazareth",
+  "genre": "Drama",
+  "director": "Stefanie Lownsbrough",
+  "duration": 13,
+  "description": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+  "publishedDate": "2024-06-23",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 55,
+  "name": "Ice-Cold in Alex",
+  "genre": "Adventure|Drama|War",
+  "director": "Shandy Bundy",
+  "duration": 74,
+  "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+  "publishedDate": "2024-09-09",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 56,
+  "name": "Death Race",
+  "genre": "Action|Adventure|Sci-Fi|Thriller",
+  "director": "Valentin Drennan",
+  "duration": 67,
+  "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+  "publishedDate": "2024-09-01",
+  "category": "Gia Đình"
+}, {
+  "id": 57,
+  "name": "Terrace, The (Terrazza, La)",
+  "genre": "Drama",
+  "director": "Tedie Rubinovici",
+  "duration": 24,
+  "description": "Integer ac leo. Pellentesque ultrices mattis odio.",
+  "publishedDate": "2025-04-27",
+  "category": "Kinh Dị"
+}, {
+  "id": 58,
+  "name": "Birds of America",
+  "genre": "Comedy|Drama",
+  "director": "Avrit McKew",
+  "duration": 80,
+  "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+  "publishedDate": "2025-03-24",
+  "category": "16+"
+}, {
+  "id": 59,
+  "name": "Creature with the Atom Brain",
+  "genre": "Crime|Horror|Sci-Fi",
+  "director": "Lilia Guy",
+  "duration": 2,
+  "description": "Quisque id justo sit amet sapien dignissim vestibulum.",
+  "publishedDate": "2024-05-09",
+  "category": "Kinh Dị"
+}, {
+  "id": 60,
+  "name": "Shadows of Liberty ",
+  "genre": "Documentary",
+  "director": "Martino Knowlys",
+  "duration": 66,
+  "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
+  "publishedDate": "2025-02-23",
+  "category": "Gia Đình"
+}, {
+  "id": 61,
+  "name": "I've Loved You So Long (Il y a longtemps que je t'aime)",
+  "genre": "Drama|Mystery",
+  "director": "Tomi Band",
+  "duration": 67,
+  "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
+  "publishedDate": "2024-06-24",
+  "category": "Kinh Dị"
+}, {
+  "id": 62,
+  "name": "Music for One Apartment and Six Drummers",
+  "genre": "Comedy",
+  "director": "Manolo Melby",
+  "duration": 91,
+  "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo.",
+  "publishedDate": "2024-05-29",
+  "category": "Kinh Dị"
+}, {
+  "id": 63,
+  "name": "Yesterday",
+  "genre": "Drama",
+  "director": "Fianna Arnaldy",
+  "duration": 61,
+  "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+  "publishedDate": "2024-05-21",
+  "category": "Kinh Dị"
+}, {
+  "id": 64,
+  "name": "Not My Type",
+  "genre": "Comedy|Romance",
+  "director": "Allyson Gannon",
+  "duration": 83,
+  "description": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "publishedDate": "2025-03-14",
+  "category": "18+"
+}, {
+  "id": 65,
+  "name": "Phone Box, The (Cabina, La)",
+  "genre": "Comedy|Drama|Mystery|Thriller",
+  "director": "Jobina Dudden",
+  "duration": 54,
+  "description": "Proin risus.",
+  "publishedDate": "2025-03-09",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 66,
+  "name": "Fred: The Movie",
+  "genre": "Comedy",
+  "director": "Amity Falkingham",
+  "duration": 76,
+  "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+  "publishedDate": "2025-03-11",
+  "category": "16+"
+}, {
+  "id": 67,
+  "name": "Snake-Crane Secret (She hao dan xin zhen jiu zhou)",
+  "genre": "Action|Drama",
+  "director": "Ruby Wehden",
+  "duration": 53,
+  "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+  "publishedDate": "2024-09-05",
+  "category": "Kinh Dị"
+}, {
+  "id": 68,
+  "name": "One I Love, The",
+  "genre": "Comedy|Drama|Romance",
+  "director": "Neda Annott",
+  "duration": 18,
+  "description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",
+  "publishedDate": "2025-03-19",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 69,
+  "name": "Line, The (La linea)",
+  "genre": "Action|Crime|Drama|Thriller",
+  "director": "Rog Bernardt",
+  "duration": 41,
+  "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+  "publishedDate": "2024-10-23",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 70,
+  "name": "The Castle of Fu Manchu",
+  "genre": "Action|Crime|Horror",
+  "director": "Aggy Koopman",
+  "duration": 39,
+  "description": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+  "publishedDate": "2024-11-02",
+  "category": "Gia Đình"
+}, {
+  "id": 71,
+  "name": "J.C. Chávez (a.k.a. Chavez)",
+  "genre": "Documentary",
+  "director": "Jeni Mebius",
+  "duration": 24,
+  "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+  "publishedDate": "2024-06-18",
+  "category": "16+"
+}, {
+  "id": 72,
+  "name": "Ulysses' Gaze (To Vlemma tou Odyssea)",
+  "genre": "Drama|War",
+  "director": "Anjanette Cheesman",
+  "duration": 44,
+  "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+  "publishedDate": "2024-07-30",
+  "category": "18+"
+}, {
+  "id": 73,
+  "name": "See You in Hell, My Darling (Tha se do stin Kolasi, agapi mou)",
+  "genre": "Crime|Horror|Thriller",
+  "director": "Dom Cone",
+  "duration": 96,
+  "description": "Mauris sit amet eros.",
+  "publishedDate": "2024-09-12",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 74,
+  "name": "Bad Timing: A Sensual Obsession",
+  "genre": "Drama",
+  "director": "Kristoforo Sweetsur",
+  "duration": 74,
+  "description": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",
+  "publishedDate": "2024-08-05",
+  "category": "Gia Đình"
+}, {
+  "id": 75,
+  "name": "Eight Crazy Nights (Adam Sandler's Eight Crazy Nights)",
+  "genre": "Animation|Comedy|Musical",
+  "director": "Carina Haney",
+  "duration": 25,
+  "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+  "publishedDate": "2024-10-23",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 76,
+  "name": "Padrecito, El (Little Priest)",
+  "genre": "Comedy|Drama",
+  "director": "Fannie Wicklin",
+  "duration": 75,
+  "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+  "publishedDate": "2024-12-05",
+  "category": "Kinh Dị"
+}, {
+  "id": 77,
+  "name": "Alan & Naomi",
+  "genre": "Children|Drama",
+  "director": "Aurelia Cortin",
+  "duration": 30,
+  "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+  "publishedDate": "2024-10-07",
+  "category": "18+"
+}, {
+  "id": 78,
+  "name": "Empty Nest (El nido vacío)",
+  "genre": "Comedy|Drama",
+  "director": "Selina Tripcony",
+  "duration": 97,
+  "description": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+  "publishedDate": "2025-02-23",
+  "category": "Kinh Dị"
+}, {
+  "id": 79,
+  "name": "Happy People: A Year in the Taiga",
+  "genre": "Documentary",
+  "director": "Scottie Huckett",
+  "duration": 10,
+  "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+  "publishedDate": "2024-10-23",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 80,
+  "name": "Charlie, the Lonesome Cougar",
+  "genre": "Adventure|Children",
+  "director": "Lanie MacEntee",
+  "duration": 96,
+  "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+  "publishedDate": "2024-06-30",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 81,
+  "name": "Mary",
+  "genre": "Drama|Thriller",
+  "director": "Susan Pigney",
+  "duration": 62,
+  "description": "Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+  "publishedDate": "2025-01-28",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 82,
+  "name": "Stand by Me Doraemon",
+  "genre": "Animation|Children|Drama|Fantasy",
+  "director": "Anett Hughs",
+  "duration": 5,
+  "description": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+  "publishedDate": "2024-11-22",
+  "category": "18+"
+}, {
+  "id": 83,
+  "name": "Rollo and the Woods Sprite (Rölli ja metsänhenki)",
+  "genre": "Children|Fantasy",
+  "director": "Wilhelmina Kirsch",
+  "duration": 2,
+  "description": "Donec dapibus.",
+  "publishedDate": "2025-03-31",
+  "category": "16+"
+}, {
+  "id": 84,
+  "name": "Joy Ride",
+  "genre": "Adventure|Thriller",
+  "director": "Cherry Haddrill",
+  "duration": 92,
+  "description": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
+  "publishedDate": "2025-02-20",
+  "category": "18+"
+}, {
+  "id": 85,
+  "name": "Bad Timing: A Sensual Obsession",
+  "genre": "Drama",
+  "director": "Ester Furmston",
+  "duration": 44,
+  "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
+  "publishedDate": "2024-06-14",
+  "category": "16+"
+}, {
+  "id": 86,
+  "name": "Dead Space: Downfall",
+  "genre": "Action|Animation|Sci-Fi",
+  "director": "Idalia Fullerd",
+  "duration": 28,
+  "description": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst.",
+  "publishedDate": "2024-10-29",
+  "category": "Gia Đình"
+}, {
+  "id": 87,
+  "name": "Koran by Heart",
+  "genre": "Documentary",
+  "director": "Mab Stubbley",
+  "duration": 71,
+  "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.",
+  "publishedDate": "2025-02-17",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 88,
+  "name": "Beauty and the Beast",
+  "genre": "Children|Fantasy|Horror|Romance",
+  "director": "Ebba Izkovici",
+  "duration": 49,
+  "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+  "publishedDate": "2025-04-01",
+  "category": "16+"
+}, {
+  "id": 89,
+  "name": "Secret Adventures of Gustave Klopp, The (Narco)",
+  "genre": "Action|Comedy|Fantasy",
+  "director": "Gaston Bremen",
+  "duration": 52,
+  "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
+  "publishedDate": "2025-02-21",
+  "category": "Kinh Dị"
+}, {
+  "id": 90,
+  "name": "Harry and the Hendersons",
+  "genre": "Children|Comedy",
+  "director": "Pat Haugen",
+  "duration": 26,
+  "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
+  "publishedDate": "2024-06-21",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 91,
+  "name": "Demolition Man",
+  "genre": "Action|Adventure|Sci-Fi",
+  "director": "Aviva Dutson",
+  "duration": 32,
+  "description": "Proin risus. Praesent lectus.",
+  "publishedDate": "2024-11-29",
+  "category": "18+"
+}, {
+  "id": 92,
+  "name": "Mág",
+  "genre": "Drama",
+  "director": "Shara Gladman",
+  "duration": 62,
+  "description": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+  "publishedDate": "2025-04-06",
+  "category": "18+"
+}, {
+  "id": 93,
+  "name": "16 to Life",
+  "genre": "Comedy|Drama",
+  "director": "Jamie Maggi",
+  "duration": 36,
+  "description": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+  "publishedDate": "2024-06-27",
+  "category": "Kinh Dị"
+}, {
+  "id": 94,
+  "name": "Last Shot, The",
+  "genre": "Comedy",
+  "director": "Faustina MacRannell",
+  "duration": 3,
+  "description": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",
+  "publishedDate": "2025-01-04",
+  "category": "Gia Đình"
+}, {
+  "id": 95,
+  "name": "Misery",
+  "genre": "Drama|Horror|Thriller",
+  "director": "Celestina Yearnes",
+  "duration": 76,
+  "description": "Duis mattis egestas metus.",
+  "publishedDate": "2025-04-03",
+  "category": "Kinh Dị"
+}, {
+  "id": 96,
+  "name": "Sanjuro (Tsubaki Sanjûrô)",
+  "genre": "Action|Adventure|Drama",
+  "director": "Wynny Butt Gow",
+  "duration": 40,
+  "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+  "publishedDate": "2025-01-15",
+  "category": "Gia Đình"
+}, {
+  "id": 97,
+  "name": "Cure, The",
+  "genre": "Drama",
+  "director": "Kamillah Iddenden",
+  "duration": 99,
+  "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+  "publishedDate": "2024-08-22",
+  "category": "Thiếu Nhi"
+}, {
+  "id": 98,
+  "name": "Night Crossing",
+  "genre": "Drama",
+  "director": "Kira Ommundsen",
+  "duration": 31,
+  "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+  "publishedDate": "2024-09-14",
+  "category": "18+"
+}, {
+  "id": 99,
+  "name": "Bonnie and Clyde",
+  "genre": "Crime|Drama",
+  "director": "Joyan Gouldie",
+  "duration": 32,
+  "description": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
+  "publishedDate": "2024-08-18",
+  "category": "Gia Đình"
+}, {
+  "id": 100,
+  "name": "Law of Desire (Ley del deseo, La)",
+  "genre": "Comedy|Drama|Romance",
+  "director": "Trip Noirel",
+  "duration": 15,
+  "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+  "publishedDate": "2025-04-09",
+  "category": "Gia Đình"
+}]

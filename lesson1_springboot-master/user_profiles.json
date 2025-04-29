@@ -1,0 +1,31 @@
+[
+  {
+    "userId": "user001",
+    "profileData": {
+      "name": "Alice",
+      "city": "Hanoi",
+      "hobbies": ["reading", "coding", "photography"],
+      "favoriteFood": "Phở"
+    }
+  },
+  {
+    "userId": "user002",
+    "profileData": {
+      "username": "Bob",
+      "location": { "country": "Vietnam", "region": "North" },
+      "interests": ["music", "travel"],
+      "preferredLanguage": "English"
+
+    }
+  },
+  {
+    "userId": "user003",
+    "profileData": {
+      "fullName": "Charlie",
+      "residence": "Ho Chi Minh City",
+      "skills": ["Java", "Python", "SQL"],
+      "musicGenre": "Jazz"
+
+    }
+  }
+]
