@@ -7,5 +7,6 @@ public enum ErrorCode {
     INVALID_OPERATOR,
     INVALID_FIELD,
     DATABASE_ERROR,
-    SYSTEM_ERROR
+    SYSTEM_ERROR,
+    NOT_FOUND
 }

@@ -24,6 +24,39 @@ public class StudentRepositoryImpl implements StudentRepositoryCustom {
     );
 
     @Override
+    public Student save(Student student) {
+        if (student.getId() == null) {
+            entityManager.persist(student);
+            return student;
+        } else {
+            return entityManager.merge(student);
+        }
+    }
+
+    @Override
+    public void deleteById(Long id) {
+        Student student = entityManager.find(Student.class, id);
+        if (student != null) {
+            entityManager.remove(student);
+        }
+    }
+
+    @Override
+    public Optional<Student> findById(Long id) {
+        Student student = entityManager.find(Student.class, id);
+        return Optional.ofNullable(student);
+    }
+
+    @Override
+    public List<Student> findAll(int page, int size) {
+        String sql = "SELECT * FROM student ORDER BY id DESC LIMIT :limit OFFSET :offset";
+        Query query = entityManager.createNativeQuery(sql, Student.class);
+        query.setParameter("limit", size);
+        query.setParameter("offset", page * size);
+        return query.getResultList();
+    }
+
+    @Override
     public List<Student> advancedSearch(StudentSearchRequest req) {
         StringBuilder sql = new StringBuilder("SELECT * FROM student WHERE 1=1 ");
         Map<String, Object> params = new HashMap<>();

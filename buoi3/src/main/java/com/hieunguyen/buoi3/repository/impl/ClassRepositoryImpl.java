@@ -24,6 +24,39 @@ public class ClassRepositoryImpl implements ClassRepositoryCustom {
     );
 
     @Override
+    public Classes save(Classes cls) {
+        if (cls.getId() == null) {
+            entityManager.persist(cls);
+            return cls;
+        } else {
+            return entityManager.merge(cls);
+        }
+    }
+
+    @Override
+    public void deleteById(Long id) {
+        Classes existing = entityManager.find(Classes.class, id);
+        if (existing != null) {
+            entityManager.remove(existing);
+        }
+    }
+
+    @Override
+    public Optional<Classes> findById(Long id) {
+        Classes cls = entityManager.find(Classes.class, id);
+        return Optional.ofNullable(cls);
+    }
+
+    @Override
+    public List<Classes> findAll(int page, int size) {
+        String sql = "SELECT * FROM classes ORDER BY id DESC LIMIT :limit OFFSET :offset";
+        Query query = entityManager.createNativeQuery(sql, Classes.class);
+        query.setParameter("limit", size);
+        query.setParameter("offset", page * size);
+        return query.getResultList();
+    }
+
+    @Override
     public List<Classes> advancedSearch(ClassSearchRequest req) {
         StringBuilder sql = new StringBuilder("SELECT * FROM classes WHERE 1=1 ");
         Map<String, Object> params = new HashMap<>();

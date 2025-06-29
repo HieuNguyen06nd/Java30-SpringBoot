@@ -17,16 +17,53 @@ public class ClassController {
 
     private final ClassService classService;
 
-    @PostMapping("/search")
-    public ResponseEntity<ApiResponse<List<Classes>>> searchClasses(
-            @RequestBody ClassSearchRequest request,
+    @PostMapping
+    public ResponseEntity<ApiResponse<Classes>> create(@RequestBody Classes cls) {
+        Classes saved = classService.save(cls);
+        return ResponseEntity.ok(ApiResponse.success(saved));
+    }
+
+    @PutMapping("/{id}")
+    public ResponseEntity<ApiResponse<Classes>> update(@PathVariable Long id, @RequestBody Classes cls) {
+        cls.setId(id);
+        Classes updated = classService.save(cls);
+        return ResponseEntity.ok(ApiResponse.success(updated));
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity<ApiResponse<Void>> delete(@PathVariable Long id) {
+        classService.delete(id);
+        return ResponseEntity.ok(ApiResponse.success(null));
+    }
+
+    @GetMapping("/{id}")
+    public ResponseEntity<ApiResponse<Classes>> getById(@PathVariable Long id) {
+        Classes found = classService.findById(id);
+        return ResponseEntity.ok(ApiResponse.success(found));
+    }
+
+    @GetMapping
+    public ResponseEntity<ApiResponse<List<Classes>>> getAll(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "10") int size
     ) {
-        request.setPage(page);
-        request.setSize(size);
+        List<Classes> result = classService.findAll(page, size);
+        return ResponseEntity.ok(ApiResponse.success(result));
+    }
+
+    @PostMapping("/search")
+    public ResponseEntity<ApiResponse<List<Classes>>> searchClasses(
+            @RequestBody ClassSearchRequest request,
+            @RequestParam(required = false) Integer page,
+            @RequestParam(required = false) Integer size,
+            @RequestParam(required = false) Long lastId
+    ) {
+        if (page != null) request.setPage(page);
+        if (size != null) request.setSize(size);
+        if (lastId != null) request.setLastId(lastId);
 
         List<Classes> result = classService.search(request);
         return ResponseEntity.ok(ApiResponse.success(result));
     }
+
 }
