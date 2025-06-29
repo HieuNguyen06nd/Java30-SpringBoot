@@ -2,6 +2,8 @@ package com.hieunguyen.buoi2.entity;
 
 import jakarta.persistence.*;
 
+import java.time.LocalDate;
+
 @Entity
 public class Student {
 
@@ -12,6 +14,14 @@ public class Student {
     private String name;
 
     private String email;
+
+    private String phone;
+
+    private LocalDate dateOfBirth;
+
+    private String address;
+
+    private Double gpa;
 
     private String gender;
 
@@ -40,6 +50,38 @@ public class Student {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
+    public LocalDate getDateOfBirth() {
+        return dateOfBirth;
+    }
+
+    public void setDateOfBirth(LocalDate dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public Double getGpa() {
+        return gpa;
+    }
+
+    public void setGpa(Double gpa) {
+        this.gpa = gpa;
     }
 
     public String getGender() {
