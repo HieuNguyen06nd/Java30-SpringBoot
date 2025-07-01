@@ -3,6 +3,8 @@ package com.hieunguyen.managestudent.controller;
 import com.hieunguyen.managestudent.entity.Classes;
 import com.hieunguyen.managestudent.entity.Student;
 import com.hieunguyen.managestudent.service.ManageStudent;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -11,10 +13,12 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@RequiredArgsConstructor
 public class ManageStudentController {
-
     private final ManageStudent manageStudent;
+
+    public ManageStudentController(ManageStudent manageStudent) {
+        this.manageStudent = manageStudent;
+    }
 
     // Thêm lớp học
     @PostMapping("/classes")

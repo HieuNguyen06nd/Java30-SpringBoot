@@ -18,11 +18,12 @@ public class ApiResponse<T> {
     private T data;           // Payload (nullable if error)
 
     public static <T> ApiResponse<T> success(T data) {
-        return new ApiResponse<>(200, "Thành công", null, data);
+        return new ApiResponse<>(200, "Thành công nhé", null, data);
     }
 
     public static <T> ApiResponse<T> success(String message, T data) {
         return new ApiResponse<>(200, message, null, data);
     }
+
 
 }

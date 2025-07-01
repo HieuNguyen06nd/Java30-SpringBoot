@@ -1,17 +1,11 @@
 package com.hieunguyen.managestudent.entity;
 
-
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.Setter;
-
 import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-@Getter
-@Setter
 public class Classes {
 
     @Id
@@ -25,4 +19,27 @@ public class Classes {
     @JsonManagedReference
     private List<Student> students = new ArrayList<>();
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getTeacherName() {
+        return teacherName;
+    }
+
+    public void setTeacherName(String teacherName) {
+        this.teacherName = teacherName;
+    }
+
+    public List<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(List<Student> students) {
+        this.students = students;
+    }
 }

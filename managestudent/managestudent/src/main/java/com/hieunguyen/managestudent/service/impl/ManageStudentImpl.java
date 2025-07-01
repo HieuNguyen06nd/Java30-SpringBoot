@@ -5,27 +5,40 @@ import com.hieunguyen.managestudent.entity.Student;
 import com.hieunguyen.managestudent.repository.ClassRepository;
 import com.hieunguyen.managestudent.repository.StudentRepository;
 import com.hieunguyen.managestudent.service.ManageStudent;
+import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+//@RequiredArgsConstructor
+//@AllArgsConstructor
 @Service
-@RequiredArgsConstructor
 public class ManageStudentImpl implements ManageStudent {
 
     private final ClassRepository classRepository;
     private final StudentRepository studentRepository;
 
+    public ManageStudentImpl(ClassRepository classRepository, StudentRepository studentRepository) {
+        this.classRepository = classRepository;
+        this.studentRepository = studentRepository;
+    }
+
+
     @Override
     public Classes createClass(Classes classEntity) {
-        return classRepository.save(classEntity);
+        Classes classes = new Classes();
+        classes.setName(classEntity.getName());
+        classes.setTeacherName(classes.getTeacherName());
+        return classRepository.save(classes);
     }
 
     @Override
     public Student addStudent(Long classId, Student student) {
-        Classes classes = classRepository.findById(classId).orElseThrow();
-        student.setClassEntity(classes);
+        Student student1 = new Student();
+        student1.setName(student.getName());
+        student1.setEmail(student.getEmail());
+        student1.setGender(student.getGender());
         return studentRepository.save(student);
     }
 
