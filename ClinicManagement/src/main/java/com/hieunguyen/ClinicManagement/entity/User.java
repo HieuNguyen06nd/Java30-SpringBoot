@@ -18,6 +18,8 @@ public class User {
 
     private String password;
 
+    private String fullName;
+
     private String email;
 
     private String phoneNumber;
