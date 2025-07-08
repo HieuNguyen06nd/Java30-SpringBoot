@@ -29,6 +29,19 @@ public class SecurityConfig {
                 .csrf().disable()
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/api/auth/**").permitAll()
+
+                        // Cho phép Swagger public
+                        .requestMatchers(
+                                "/swagger-ui/**",
+                                "/v3/api-docs/**",
+                                "/swagger-ui.html"
+                        ).permitAll()
+
+                        // Phân quyền chi tiết
+                        .requestMatchers("/api/roles/**").hasRole("ADMIN")
+                        .requestMatchers("/api/patients/**").hasAnyRole("DOCTOR", "NURSE")
+
+                        // Mọi request khác đều cần login
                         .anyRequest().authenticated()
                 )
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
@@ -36,6 +49,8 @@ public class SecurityConfig {
 
         return http.build();
     }
+
+
 
     @Bean
     public AuthenticationManager authenticationManager() {

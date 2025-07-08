@@ -7,10 +7,10 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
 @Builder
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class ApiResponse<T> {
     private int status;
     private String error;
@@ -19,4 +19,6 @@ public class ApiResponse<T> {
     private LocalDateTime timestamp;
     private T data;
 }
+
+
 

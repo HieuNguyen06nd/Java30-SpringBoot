@@ -1,6 +1,6 @@
 package com.hieunguyen.ClinicManagement.service;
 
-import javax.management.relation.Role;
+import com.hieunguyen.ClinicManagement.entity.Role;
 
 public interface RoleService {
 

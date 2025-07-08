@@ -9,4 +9,7 @@ public interface UserService {
     User register(RegisterRequest request);
 
     LoginResponse login(LoginRequest request);
+
+    User getCurrentUser(String token);
+
 }

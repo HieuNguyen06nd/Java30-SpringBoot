@@ -32,9 +32,22 @@ public enum ErrorCode {
 
     USERNAME_ALREADY_EXISTS("USR_001", "Tên đăng nhập đã tồn tại"),
     ROLE_NOT_FOUND("ROL_001", "Không tìm thấy quyền"),
-    INVALID_CREDENTIALS("AUTH_001", "Sai tên đăng nhập hoặc mật khẩu");
+    ROLE_ALREADY_EXISTS("ROL_002", "Quyền đã tồn tại"),
+    INVALID_ROLE_NAME("ROL_003", "Tên quyền không hợp lệ"),
+
+    // ===== LOGIN =====
+    INVALID_CREDENTIALS("AUTH_005", "Sai tên đăng nhập hoặc mật khẩu"),
+
+    DOCTOR_NOT_FOUND("DOC_001", "Không tìm thấy bác sĩ"),
+    DUPLICATE_PHONE("PAT_001", "Số điện thoại đã tồn tại"),
+    PATIENT_NOT_FOUND("PAT_001", "Không tìm thấy bệnh nhân"),
+    INVALID_DATE_RANGE("D4001", "Invalid date range"),
+    INVALID_OTP("OTP_001", "Mã OTP không hợp lệ hoặc đã hết hạn"),
+    PHONE_NUMBER_ALREADY_EXISTS("PHONE_001", "SDT đã tồn tại");
+
+
+
 
     private final String code;
     private final String message;
-
 }

@@ -9,6 +9,23 @@ spring:
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
+  jackson:
+    default-property-inclusion: non_null
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: your-email@gmail.com
+    password: your-app-password
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
 
   jpa:
     hibernate:
@@ -19,7 +36,9 @@ spring:
         format_sql: true
         dialect: org.hibernate.dialect.MySQL8Dialect
 jwt:
-  secret-key: "your-very-secret-key-here-should-be-256-bits-minimum"
+  secret-key: "ghasjkdh39823jvnakjs84390hkjkjsajla932"
   expiration: 86400000 # 1 ngày (milliseconds)
+
+
 
 
