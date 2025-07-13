@@ -1,5 +1,6 @@
 package com.hieunguyen.authmanage.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.hieunguyen.authmanage.utils.Role;
 import jakarta.persistence.*;
 import lombok.*;
@@ -19,6 +20,7 @@ public class User {
     @Column(unique = true)
     private String username;
 
+    @JsonIgnore
     private String password;
 
     @Enumerated(EnumType.STRING)
