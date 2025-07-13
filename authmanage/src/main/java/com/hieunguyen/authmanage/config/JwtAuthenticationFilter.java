@@ -1,65 +1,49 @@
-package com.hieunguyen.ClinicManagement.jwt;
+package com.hieunguyen.authmanage.config;
 
-import com.hieunguyen.ClinicManagement.service.JwtService;
+import com.hieunguyen.authmanage.service.JwtService;
+import com.hieunguyen.authmanage.service.impl.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
-
 import java.io.IOException;
 
 @Component
 @RequiredArgsConstructor
-@Slf4j
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     private final JwtService jwtService;
-    private final UserDetailsService userDetailsService;
+    private final CustomUserDetailsService userDetailsService;
 
     @Override
     protected void doFilterInternal(HttpServletRequest request,
                                     HttpServletResponse response,
-                                    FilterChain filterChain)
-            throws ServletException, IOException {
-
+                                    FilterChain filterChain) throws ServletException, IOException {
         final String authHeader = request.getHeader("Authorization");
+        final String jwtToken;
+        final String username;
 
+        // Không có Bearer token thì next
         if (authHeader == null || !authHeader.startsWith("Bearer ")) {
             filterChain.doFilter(request, response);
             return;
         }
 
-        final String jwt = authHeader.substring(7);
+        jwtToken = authHeader.substring(7);
+        username = jwtService.extractUsername(jwtToken);
 
-        // Kiểm tra token đúng định dạng 3 phần (Header.Payload.Signature)
-        if (jwt.split("\\.").length != 3) {
-            log.warn("Token sai định dạng: {}", jwt);
-            filterChain.doFilter(request, response);
-            return;
-        }
-
-        String username;
-        try {
-            username = jwtService.extractUsername(jwt);
-        } catch (Exception e) {
-            log.warn("Không thể trích xuất username từ token: {} - Lỗi: {}", jwt, e.getMessage());
-            filterChain.doFilter(request, response);
-            return;
-        }
-
+        // Kiểm tra chưa xác thực trong SecurityContext
         if (username != null && SecurityContextHolder.getContext().getAuthentication() == null) {
-            UserDetails userDetails = userDetailsService.loadUserByUsername(username);
+            UserDetails userDetails = this.userDetailsService.loadUserByUsername(username);
 
-            if (jwtService.isTokenValid(jwt, userDetails)) {
+            if (jwtService.isTokenValid(jwtToken, userDetails)) {
                 UsernamePasswordAuthenticationToken authToken =
                         new UsernamePasswordAuthenticationToken(
                                 userDetails,
@@ -68,8 +52,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                         );
                 authToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
                 SecurityContextHolder.getContext().setAuthentication(authToken);
-            } else {
-                log.warn("Token không hợp lệ cho người dùng: {}", username);
             }
         }
 
